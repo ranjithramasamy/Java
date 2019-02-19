@@ -1,4 +1,4 @@
-package com.self.string;
+package com.self;
 
 public class StringReverseWithSpecialChars {
 

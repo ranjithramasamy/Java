@@ -1,3 +1,4 @@
+package com.self;
 
 public class SubStringPalindromeCount {
 	
