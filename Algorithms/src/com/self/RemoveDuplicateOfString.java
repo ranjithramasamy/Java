@@ -7,7 +7,6 @@ public class RemoveDuplicateOfString {
 		boolean lower = true;
 		
 		System.out.println(approach1(input, lower));
-		System.out.println((char)('a' - 2));
 	}
 	
 	private static String approach1(String input, boolean lower) {
