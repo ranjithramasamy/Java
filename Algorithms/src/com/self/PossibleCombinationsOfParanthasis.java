@@ -16,7 +16,7 @@ public class PossibleCombinationsOfParanthasis {
 	
 	private static List<String> printAllPossibleParanthasis(int open, int close, String currPairs, List<String> result) {
 		if(open == 0 && close  == 0) {
-			result.add(currPairs);
+			result.add(currPairs);	
 		}
 		
 		if(open > close) {
