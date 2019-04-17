@@ -1,10 +1,14 @@
-package com.self;
+package com.self.hackerrank;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+/**
+ * Evaluate the given string is palindrome or not.
+ * @author ranjithr
+ *
+ */
 public class Palindrome {
-
 	public static void main(String[] args) {
 		String input = "A man, a plan, a canal. Panama";
 		boolean palindrome = isPalindrome(input.toCharArray());

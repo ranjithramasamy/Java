@@ -1,5 +1,15 @@
-package com.self;
+package com.self.hackerrank;
 
+/**
+ * Delete a characters within a string so that both strings becomes equal.
+ * 
+ * Example:
+ * Input: 	"heat", "hit"
+ * Output:	3 -> By removing 'e', 'a' and 'i', so that both strings becomes equal.
+ * 
+ * @author ranjithr
+ *
+ */
 public class DeletionDistanceBetweenStrings {
 	public static void main(String[] args) {
 		System.out.println(deletionDistance("heat", "hit"));

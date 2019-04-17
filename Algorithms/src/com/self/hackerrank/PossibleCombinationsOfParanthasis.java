@@ -1,8 +1,18 @@
-package com.self;
+package com.self.hackerrank;
 
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * Print all possible combination of parenthesis for given pair.
+ * 
+ * Example:
+ * Input: 	3
+ * Output:	[((())), (()()), (())(), ()(()), ()()()]
+ * 
+ * @author ranjithr
+ *
+ */
 public class PossibleCombinationsOfParanthasis {
 
 	public static void main(String[] args) {

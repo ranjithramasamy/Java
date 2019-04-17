@@ -1,5 +1,15 @@
-package com.self;
+package com.self.hackerrank;
 
+/**
+ * Remove duplicate chars of given string.
+ * 
+ * Example:
+ * Input:  	geeksforgeeks
+ * Output:	geksfor
+ * 
+ * @author ranjithr
+ *
+ */
 public class RemoveDuplicateOfString {
 
 	public static void main(String[] args) {		

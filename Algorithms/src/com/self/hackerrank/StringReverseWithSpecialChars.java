@@ -1,4 +1,4 @@
-package com.self;
+package com.self.hackerrank;
 
 public class StringReverseWithSpecialChars {
 
