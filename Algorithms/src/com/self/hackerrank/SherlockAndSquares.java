@@ -23,7 +23,7 @@ public class SherlockAndSquares {
         long curValue = pow;
 
         while(curValue <= b){
-            if(curValue >= a && curValue <= b){
+            if(curValue >= a){
                 count++;
             }
 
