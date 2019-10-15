@@ -19,8 +19,8 @@ import java.util.Map;
 public class LoyaltyInteger {
 
 	public static void main(String[] args) {
-		int[] arr1 =  {1, 1};
-		int[] arr2 =  {2, 2, 4};
+		int[] arr1 =  {2, 2};
+		int[] arr2 =  {0, 0, 1, 4, 1};
 		
 		System.out.println(findLoyaltyInteger(arr1));
 		System.out.println(findLoyaltyInteger(arr2));
