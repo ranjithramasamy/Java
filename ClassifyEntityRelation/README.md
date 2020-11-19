@@ -14,7 +14,7 @@
 	
 <h5>Option: 1</h5>
 
-	Open ClassifyEntityRelationMain.java which is a main file for this project and then it.
+	Open ClassifyEntityRelationMain.java which is a main file for this project and then run it.
 	
 <h5>Option: 2</h5>
 	You may run this application via command line as well,
